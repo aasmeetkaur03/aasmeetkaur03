@@ -41,16 +41,29 @@
 ---
 
 ### 🌐 Let's Connect
-<div align="center">
-<div style = "border:1.5px solid #888 ; border-radius: 10px ; padding: 12px ; display: inline-flex ; gap:10px;">
-<a href="https://www.linkedin.com/in/aasmeet-kaur-7b1830303" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:logicweaver03@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-</div>
+
+<p>
+  <a href="https://www.linkedin.com/in/aasmeet-kaur-7b1830303" target="_blank" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      border:1.5px solid #888;
+      border-radius:10px;
+      padding:8px 12px;
+      margin-right:10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </span>
+  </a>
+
+  <a href="mailto:kauraasmeet@gmail.com" target="_blank" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      border:1.5px solid #888;
+      border-radius:10px;
+      padding:8px 12px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </span>
+  </a>
+</p>
 
 ---
 
