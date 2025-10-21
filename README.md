@@ -14,10 +14,10 @@
 
 ### 💻 Tech Stack
                                            
-  💡 Programming  : C++, Python                                                 
-  📊 Data & ML    : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
-  ⚙  Tools        : Jupyter Notebook, VS Code, Git, GitHub                      
-  🎨 Creative     : Canva, MS PowerPoint, Adobe Express                         
+  -💡 Programming  : C++, Python                                                 
+  -📊 Data & ML    : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
+  -⚙  Tools        : Jupyter Notebook, VS Code, Git, GitHub                      
+  -🎨 Creative     : Canva, MS PowerPoint, Adobe Express                         
 ---
 
 ### 🌍 Projects & Interests
