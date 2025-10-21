@@ -14,10 +14,10 @@
 
 ### 💻 Tech Stack
                                            
-  -💡 Programming  : C++, Python                                                 
-  -📊 Data & ML    : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
-  -⚙  Tools        : Jupyter Notebook, VS Code, Git, GitHub                      
-  -🎨 Creative     : Canva, MS PowerPoint, Adobe Express                         
+  - 💡 Programming  : C++, Python                                                 
+  - 📊 Data & ML    : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
+  - ⚙  Tools        : Jupyter Notebook, VS Code, Git, GitHub                      
+  - 🎨 Creative     : Canva, MS PowerPoint, Adobe Express                         
 ---
 
 ### 🌍 Projects & Interests
@@ -41,18 +41,20 @@
 ---
 
 ### 🌐 Let's Connect
-<p align="center">
+<div align="center">
+<div style = "border:1.5px solid #888 ; border-radius: 10px ; padding: 12px ; display: inline-flex ; gap:10px;">
 <a href="https://www.linkedin.com/in/aasmeet-kaur-7b1830303" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:kauraasmeet@gmail.com" target="_blank">
+<a href="mailto:logicweaver03@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+</div>
+</div>
 
 ---
 
 ### 🌸 Fun Fact
-> I find beauty in both *code and creativity* — from visualizing data to writing verses.
+> I find Beauty in both *Code and Creativity* — from Visualizing Data to Writing Verses.
 
 ⭐ “Learning. Creating. Growing.”
