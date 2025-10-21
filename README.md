@@ -48,7 +48,7 @@
       display:inline-block;
       border:1.5px solid #888;
       border-radius:10px;
-      padding:8px 12px;
+      padding:10px 12px;
       margin-right:10px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </span>
@@ -59,7 +59,7 @@
       display:inline-block;
       border:1.5px solid #888;
       border-radius:10px;
-      padding:8px 12px;">
+      padding:10px 12px;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </span>
   </a>
