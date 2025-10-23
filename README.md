@@ -27,11 +27,11 @@
 
 🔹 *Data Analysis Projects (in progress):*  
 &nbsp;&nbsp;&nbsp;&nbsp;• Exploring trends using Pandas & Matplotlib  
-&nbsp;&nbsp;&nbsp;&nbsp;• Small visual storytelling dashboards  
+
 
 🔹 *Creative Projects:*  
 &nbsp;&nbsp;&nbsp;&nbsp;• Contributed poems to multiple published anthologies  
-&nbsp;&nbsp;&nbsp;&nbsp;• Working on a personal creative collection combining *poetry + tech reflections*
+
 
 ---
 
