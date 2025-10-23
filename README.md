@@ -5,7 +5,7 @@
 
 ### 🌼 About Me
 - 🎓 Pursuing *B.Tech in Computer Science Engineering* at Guru Nanak Dev University (Batch 2027)  
-- 💻 Skilled in C++, Python, and Data Visualization* using Matplotlib, Pandas, NumPy and Seaborn  
+- 💻 Skilled in C++, Python, and Data Visualization using Matplotlib, Pandas, NumPy and Seaborn  
 - 🧠 Exploring *Data Analytics, Machine Learning and AI*  
 - 🪶 Published *Poetry Anthologies* where I love transforming Thoughts into Words  
 - 🌱 Currently learning to turn data into insights — and insights into impact  
