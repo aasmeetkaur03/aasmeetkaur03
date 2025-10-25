@@ -23,9 +23,9 @@
 ### 🌍 Projects & Interests
 🔹 *C++ Projects:*  
 &nbsp;&nbsp;&nbsp;&nbsp;• Bank Management System  
-&nbsp;&nbsp;&nbsp;&nbsp;• Student Record Tracker  
+&nbsp;&nbsp;&nbsp;&nbsp;• Expense Tracker  
 
-🔹 *Data Analysis Projects (in progress):*  
+🔹 *Data Analysis Projects (In Progress):*  
 &nbsp;&nbsp;&nbsp;&nbsp;• Exploring trends using Pandas & Matplotlib  
 
 
