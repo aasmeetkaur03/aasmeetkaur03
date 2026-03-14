@@ -139,9 +139,21 @@ Every project is a step forward in this journey.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/aasmeetkaur1703?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+<p align="center">
+  <a href="mailto:aasmeetk17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aasmeetkaur1703" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aasmeetkaur03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![Email](aasmeetk17@gmail.com)]
+<p align="center">
+  <i>As a Fresher I'm always open to Impctful Collaborations, Internships and Entry-Level Opportunities in Software Engineering, Data Science and Machine Learning🚀</i>
+</p>
 
 ---
 
