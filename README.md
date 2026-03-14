@@ -1,73 +1,152 @@
 <h1 align="center">✨ Hi There! I'm Aasmeet Kaur ✨</h1>
-<h3 align="center">A Computer Science Student blending Logic & Creativity through Data and Words 🌸</h3>
 
 ---
 
-### 🌼 About Me
-- 🎓 Pursuing *B.Tech in Computer Science Engineering* at Guru Nanak Dev University (Batch 2027)  
-- 💻 Skilled in C++, Python, and Data Visualization using Matplotlib, Pandas, NumPy and Seaborn  
-- 🧠 Exploring *Data Analytics, Machine Learning and AI*  
-- 🪶 Published *Poetry Anthologies* where I love transforming Thoughts into Words  
-- 🌱 Currently learning to turn data into insights — and insights into impact  
+🎓 Computer Science Student | Exploring Software Engineering, Data Analysis & Machine Learning
+
+I'm a curious learner who enjoys building small but meaningful projects while strengthening my programming and problem-solving skills.
+
+Currently, I'm exploring how **Software systems, Data and Machine Learning Models work together** to solve real-world problems. I like turning concepts I learn into practical projects and documenting my journey through code.
+
+While I’m still in the learning phase, I’m enthusiastic about **Software Engineering, Data Analytics and Natural Language Processing**, and I enjoy experimenting with ideas to understand how real-world systems are built.
 
 ---
 
-### 💻 Tech Stack
-                                           
-  - 💡 Programming  : C++, Python                                                 
-  - 📊 Data & ML    : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
-  - ⚙  Tools        : Jupyter Notebook, VS Code, Git, GitHub                      
-  - 🎨 Creative     : Canva, MS PowerPoint, Adobe Express                         
----
+# 🌼 About Me
 
-### 🌍 Projects & Interests
-🔹 *C++ Projects:*  
-&nbsp;&nbsp;&nbsp;&nbsp;• Bank Management System  
-&nbsp;&nbsp;&nbsp;&nbsp;• Expense Tracker  
+🎓 **B.Tech in Computer Science Engineering**  
+Guru Nanak Dev University — Batch 2027  
 
-🔹 *Data Analysis Projects (In Progress):*  
-&nbsp;&nbsp;&nbsp;&nbsp;• Exploring trends using Pandas & Matplotlib  
+💻 Learning and practicing programming through **C++ and Python projects**
 
+📊 Exploring **Data Analysis, Machine Learning and NLP**
 
-🔹 *Creative Projects:*  
-&nbsp;&nbsp;&nbsp;&nbsp;• Contributed poems to multiple published anthologies  
+🧠 Interested in understanding **how data-driven systems and intelligent models are designed**
 
+✍️ Creative Writer who enjoys transforming Thoughts into Poetry
+
+🌱 Currently focusing on improving **problem-solving, programming logic and project building**
 
 ---
 
-### 🧩 My Learning Focus
-> “Bridging Data and Creativity — because every Dataset has a Story waiting to be told.”
+# 🛠️ Tech Stack
+
+### 💻 Programming
+- C++
+- Python
+
+### 📊 Data & Machine Learning
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- TF-IDF  
+- Natural Language Processing basics
+
+### ⚙️ Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+### 🎨 Creative Tools
+- Canva
+- MS PowerPoint
+- Adobe Express
 
 ---
 
-### 🌐 Let's Connect
+# 🚀 Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/aasmeet-kaur-7b1830303" target="_blank" style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      border:1.5px solid #888;
-      border-radius:10px;
-      padding:10px 12px;
-      margin-right:10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </span>
-  </a>
+### 📰 Fake News Detection using NLP
+An **end-to-end machine learning pipeline** built to classify news articles as real or fake.
 
-  <a href="mailto:kauraasmeet@gmail.com" target="_blank" style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      border:1.5px solid #888;
-      border-radius:10px;
-      padding:10px 12px;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </span>
-  </a>
-</p>
+Key Components:
+- Data preprocessing and text cleaning
+- Exploratory Data Analysis (EDA)
+- Feature extraction using **TF-IDF**
+- Training machine learning models for classification
+- Evaluating model performance
+
+Technologies:
+`Python` `Pandas` `Scikit-learn` `NLP` `TF-IDF`
 
 ---
 
-### 🌸 Fun Fact
-> I find Beauty in both *Code and Creativity* — from Visualizing Data to Writing Verses.
+### 🏦 Banking System (C++)
+A **console-based banking management system** designed to simulate basic banking operations.
 
-⭐ “Learning. Creating. Growing.”
+Features:
+- User account creation with PIN authentication
+- Deposit and withdrawal functionality
+- Balance checking and account management
+- File handling for persistent data storage
+
+Concepts Used:
+`C++` `OOP` `File Handling` `Input Validation`
+
+---
+
+### 💰 Expense Tracker (C++)
+A lightweight **command-line expense management system** for recording and organizing daily expenses.
+
+Features:
+- Add and manage expense records
+- Automatic timestamp for transactions
+- Save data to text files
+- Export records to CSV format
+
+Concepts Used:
+`C++` `Vectors` `Structs` `File Handling`
+
+---
+
+### 🌍 Data Visualization with Choropleth Maps
+A project exploring **Geographical Data Visualization** using Python.
+
+Features:
+- Data cleaning and preparation
+- Visualizing geographic data using choropleth maps
+- Understanding patterns and trends through visual analysis
+
+Technologies:
+`Python` `Pandas` `Matplotlib`
+
+---
+
+# 🌱 Learning Journey
+
+I’m not a professional developer yet — I’m a student actively learning by **building projects and exploring new concepts**.
+
+Each repository here represents something I studied, practiced or experimented with while improving my understanding of programming and data.
+
+My goal is to gradually develop stronger foundations in:
+
+- Software Engineering
+- Machine Learning
+- Data Analysis
+- Natural Language Processing
+
+Every project is a step forward in this journey.
+
+---
+
+# 🧩 My Learning Focus
+
+> Bridging **Data, Logic and Creativity** — because every Dataset has a story waiting to be discovered.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://www.linkedin.com/in/aasmeetkaur1703?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+
+[![Email](aasmeetk17@gmail.com)]
+
+---
+
+# 🌸 Fun Fact
+
+I find beauty in both **Codee and Creativity** — from building Data Visualization to Writing Poetry. 
+
+⭐ *Learning. Creating. Growing.*
