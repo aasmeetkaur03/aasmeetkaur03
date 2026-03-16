@@ -29,11 +29,17 @@ Guru Nanak Dev University — Batch 2027
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Skills 
 
 ### 💻 Programming
 - C++
 - Python
+- SQL
+
+### 🤖 Core CS Concepts
+- Object-Oriented Programming (OOPs)
+- Data Structures and Algorithms (DSA)
+- Problem Solving
 
 ### 📊 Data & Machine Learning
 - Pandas  
@@ -41,13 +47,16 @@ Guru Nanak Dev University — Batch 2027
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
+- Exploratory Data Analysis (EDA)
+- Data PreProcessing 
 - TF-IDF  
 - Natural Language Processing basics
 
-### ⚙️ Tools
+### ⚙️ Tools and Platforms
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
+- Streamlit
 
 ### 🎨 Creative Tools
 - Canva
@@ -156,8 +165,8 @@ The project focuses on cleaning and preparing geographic datasets and transformi
 Choropleth maps allow users to easily identify regional differences and patterns through color-coded visual representations.
 
 🔹 **Features**
-• Data cleaning and preparation  
-• Visualizing geographic data using choropleth maps  
+• Data Cleaning and Preparation   
+• Visualizing geographic data using choropleth
 • Identifying regional trends through visual analysis  
 
 🔹 **Technologies**
