@@ -58,59 +58,110 @@ Guru Nanak Dev University — Batch 2027
 
 # 🚀 Projects
 
+### 📊 Customer Churn Prediction (Machine Learning)
+
+Machine Learning system that predicts whether a telecom customer is likely to churn based on account information, billing details, and service usage.
+
+🔹 **Key Features**
+- Customer churn prediction using ML models
+- Exploratory Data Analysis and feature engineering
+- Model evaluation using Accuracy, Precision, Recall, F1 Score
+- Interactive web application built with Streamlit
+- Deployed online for real-time predictions
+
+🔹 **Tech Stack**
+Python • Pandas • NumPy • Scikit-learn • Streamlit • Joblib
+
+🔹 **Machine Learning Models**
+- Logistic Regression  
+- Random Forest Classifier
+
+🔹 **Live Demo**
+https://customer-churn-prediction-2-f6dy.onrender.com/
+
+---
+
 ### 📰 Fake News Detection using NLP
-An **end-to-end machine learning pipeline** built to classify news articles as real or fake.
 
-Key Components:
-- Data preprocessing and text cleaning
-- Exploratory Data Analysis (EDA)
-- Feature extraction using **TF-IDF**
-- Training machine learning models for classification
-- Evaluating model performance
+Fake News Detection is an important problem in today's digital world where misinformation spreads rapidly online. Identifying unreliable or misleading news articles helps improve information credibility and public awareness.
 
-Technologies:
-`Python` `Pandas` `Scikit-learn` `NLP` `TF-IDF`
+This project develops a **Machine Learning based NLP System** that classifies news articles as **Real or Fake** based on textual content and linguistic patterns.
+
+The project includes a **complete Natural Language Processing workflow**, starting from text preprocessing and feature extraction to model training and evaluation.
+
+Key text features are extracted using **TF-IDF Vectorization**, enabling machine learning models to understand word importance within articles.
+
+🔹 **Features**
+• Text preprocessing and data cleaning  
+• Exploratory Data Analysis (EDA)  
+• Feature extraction using TF-IDF  
+• Training machine learning classification models  
+• Model performance evaluation  
+
+🔹 **Technologies**
+Python Pandas Scikit-learn NLP TF-IDF
 
 ---
 
 ### 🏦 Banking System (C++)
-A **console-based banking management system** designed to simulate basic banking operations.
 
-Features:
-- User account creation with PIN authentication
-- Deposit and withdrawal functionality
-- Balance checking and account management
-- File handling for persistent data storage
+The Banking System project simulates a basic banking environment where users can manage accounts and perform common financial operations.
 
-Concepts Used:
-`C++` `OOP` `File Handling` `Input Validation`
+This project develops a **console-based banking management system** that allows users to create accounts, manage balances, and perform transactions.
+
+The system demonstrates **Object-Oriented Programming concepts in C++**, along with file handling for storing account data persistently.
+
+It provides a simple simulation of real banking operations while focusing on core programming concepts.
+
+🔹 **Features**
+• User account creation with PIN authentication  
+• Deposit and withdrawal functionality  
+• Balance checking and account management  
+• Persistent data storage using file handling  
+
+🔹 **Concepts Used**
+C++ OOP File Handling Input Validation
 
 ---
 
 ### 💰 Expense Tracker (C++)
-A lightweight **command-line expense management system** for recording and organizing daily expenses.
 
-Features:
-- Add and manage expense records
-- Automatic timestamp for transactions
-- Save data to text files
-- Export records to CSV format
+Managing personal expenses is essential for financial planning. This project provides a simple way to record and organize daily expenses.
 
-Concepts Used:
-`C++` `Vectors` `Structs` `File Handling`
+The project develops a **command-line expense tracking system** that allows users to add, store, and manage expense records efficiently.
+
+The application focuses on practicing **C++ data structures and file handling**, enabling persistent storage of financial records.
+
+Users can track their spending habits and export records for further analysis.
+
+🔹 **Features**
+• Add and manage expense records  
+• Automatic timestamp for transactions  
+• Save expense data to text files  
+• Export records to CSV format  
+
+🔹 **Concepts Used**
+C++ Vectors Structs File Handling
 
 ---
 
 ### 🌍 Data Visualization with Choropleth Maps
-A project exploring **Geographical Data Visualization** using Python.
 
-Features:
-- Data cleaning and preparation
-- Visualizing geographic data using choropleth maps
-- Understanding patterns and trends through visual analysis
+Data visualization plays a key role in understanding geographic patterns and trends within datasets.
 
-Technologies:
-`Python` `Pandas` `Matplotlib`
+This project explores **Geographical Data Visualization** by creating choropleth maps that represent data values across different regions.
+
+The project focuses on cleaning and preparing geographic datasets and transforming them into meaningful visual insights.
+
+Choropleth maps allow users to easily identify regional differences and patterns through color-coded visual representations.
+
+🔹 **Features**
+• Data cleaning and preparation  
+• Visualizing geographic data using choropleth maps  
+• Identifying regional trends through visual analysis  
+
+🔹 **Technologies**
+Python Pandas Matplotlib
 
 ---
 
